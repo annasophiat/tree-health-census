@@ -12,4 +12,4 @@ The purpose of this project is to create a machine learning model that predicts 
 - trunk condition
 - branch condition
 
-Trees are an essential part of New York City. They provide shade, improve air quality, reduce flooding and improve water quality, and help increase property value in the city.
+Trees are an essential part of New York City. They provide shade, improve air quality, reduce flooding, improve water quality, and help increase property value in the city.
