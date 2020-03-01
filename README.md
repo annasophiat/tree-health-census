@@ -8,11 +8,11 @@ Since the city spends millions every year on keeping the city green, it’s impo
 
 ### Table of Contents
 
-1. Data Wrangling
-2. Data Storytelling and Visualization
-3. Statistical Analysis
-4. Machine Learning
+1. [Data Wrangling](https://github.com/annafin/tree-census/blob/master/tree_census_data_wrangling.ipynb)
+2. [Data Storytelling and Visualization](https://github.com/annafin/tree-census/blob/master/tree_census_data_storytelling.ipynb)
+3. [Statistical Analysis](https://github.com/annafin/tree-census/blob/master/tree_census_statistical_analysis.ipynb)
+4. [Machine Learning](https://github.com/annafin/tree-census/blob/master/tree_census_machine_learning.ipynb)
 
-   Under Sampling Methods
+   [Under Sampling Methods](https://github.com/annafin/tree-census/blob/master/tree-census-under-sampling.ipynb)
    
-   Over Sampling Methods
+   [Over Sampling Methods](https://github.com/annafin/tree-census/blob/master/tree-census-over-sampling.ipynb)
