@@ -5,3 +5,12 @@ Trees are an essential part of New York City. The purpose of this project is to 
 In a city like NYC, trees provide a plethora of benefits as well as adding aesthetic value to the city’s parks and streets. Trees help reduce carbon emissions, improve air quality, provide shade and lower air temperatures, reduce stormwater runoffs, and increase home values. Trees cover approximately a quarter of NYC and the city heavily invests in maintaining the well-being of these trees. However, over time, due to negligence and a variety of factors, the health of a tree can decline and eventually, is reduced to a stump (leaving a dead tree up is a dangerous as it becomes susceptible to lightning and a fire hazard).
 
 Since the city spends millions every year on keeping the city green, it’s important to have a way of monitoring the trees so that more and more trees are kept in good condition. This project aims to create a model that can predict whether or not a tree is in need of attention due to health concerns. In order to create this model, we are using the [2015 Street Tree Census from NYC OpenData](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh).
+
+### Table of Contents
+
+1. Data Wrangling
+2. Data Storytelling and Visualization
+3. Statistical Analysis
+4. Machine Learning
+  * Under Sampling Methods
+  * Over Sampling Methods
