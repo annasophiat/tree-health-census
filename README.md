@@ -13,6 +13,5 @@ Since the city spends millions every year on keeping the city green, it’s impo
 3. Statistical Analysis
 4. Machine Learning
 
-  * Under Sampling Methods
-  
-  * Over Sampling Methods
+   Under Sampling Methods
+   Over Sampling Methods
