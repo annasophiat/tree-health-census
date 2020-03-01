@@ -12,5 +12,6 @@ Since the city spends millions every year on keeping the city green, it’s impo
 2. Data Storytelling and Visualization
 3. Statistical Analysis
 4. Machine Learning
+
   * Under Sampling Methods
   * Over Sampling Methods
