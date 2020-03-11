@@ -13,4 +13,4 @@ Since the city spends millions every year on keeping the city green, it’s impo
 3. [Statistical Analysis](https://github.com/annafin/tree-census/blob/master/tree_census_statistical_analysis.ipynb)
 4. [Machine Learning](https://github.com/annafin/tree-census/blob/master/tree_census_machine_learning.ipynb)
 
-   Due to the number of under and over sampling methods used to counteract the imbalanced data, there are two separate notebooks, one for [under sampling](https://github.com/annafin/tree-census/blob/master/tree-census-under-sampling.ipynb) and another for [over sampling](https://github.com/annafin/tree-census/blob/master/tree-census-over-sampling.ipynb).
+   Due to the number of under and over sampling methods used to counteract the imbalanced data, there are three separate notebooks: [under sampling](https://github.com/annafin/tree-census/blob/master/tree_census_under_sampling.ipynb), [over sampling](https://github.com/annafin/tree-census/blob/master/tree_census_over_sampling.ipynb), and [combination under and over sampling](https://github.com/annafin/tree-census/blob/master/tree_census_combination_sampling.ipynb).
