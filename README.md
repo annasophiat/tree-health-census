@@ -1,4 +1,4 @@
-# Capstone Project: 2015 Tree Census
+# Modeling the Health of NYC Trees Using the 2015 Tree Census
 
 Trees are an essential part of New York City. There are trees planted on every sidewalk in each borough, and the famous Central Park is home to over 20,000 trees. Keeping track of them is hard work and takes a lot of time and energy. Which is why every year, NYC Parks & Rec asks volunteers to go and document the living conditions of the city’s trees to create a census. This census is used to keep track of the city's trees (stump and living) and state their conditions and surroundings.
 
