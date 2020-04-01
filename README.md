@@ -4,7 +4,7 @@ Trees are an essential part of New York City. There are trees planted on every s
 
 NYC trees provide a plethora of benefits as well as add an aesthetic value to the city’s parks and streets. Trees help reduce carbon emissions, improve air quality, provide shade, lower air temperatures, reduce stormwater runoffs, and increase home values. They cover approximately a quarter of NYC and so it's understandable that the city invests in maintaining the well-being of these trees. However, over time, due to negligence and a variety of factors, a tree's health can decline and eventually, the tree is reduced to a stump (keeping a dead tree up is dangerous as it is susceptible to lightning and a fire hazard).
 
-Since NYC spends millions every year to keep the city green, it’s important to have a way of monitoring the trees so that they can continue to flourish and thrive. This project aims to create a model that predicts whether or not a tree is in need of attention due to poor health. The data comes from the [2015 Street Tree Census from NYC OpenData](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh).
+Since NYC spends millions every year to keep the city green, it’s important to have a way of monitoring the trees so that they can continue to flourish and thrive. This project aims to create a model that predicts whether or not a tree is in need of attention due to poor health using the [2015 Tree Census](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh).
 
 ### Table of Contents
 
